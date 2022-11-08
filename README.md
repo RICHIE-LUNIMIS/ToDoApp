@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 [live demo] (https://todoapp-1.richielunimis.repl.co/)
+<img width="960" alt="Screenshot 2022-11-08 at 2 46 25 PM" src="https://user-images.githubusercontent.com/114628717/200525101-a635abae-992e-45b5-8f0b-4f4bdbd6bfd9.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
